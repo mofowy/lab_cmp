@@ -1,0 +1,7 @@
+requests
+prettytable
+colorama
+pytest
+pandas
+matplotlib
+numpy
